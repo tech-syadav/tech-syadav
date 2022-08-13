@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tech-syadav
 - 👀 I’m interested in Developing programs
-- 🌱 I’m currently learning JAVA
+- 🌱 Good knowledge about JAVA
 - 📫 mail me on sumityadavit@gmail.com
 
 <!---
